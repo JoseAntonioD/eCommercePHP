@@ -104,7 +104,7 @@
 								BLOQUE CATEGORIAS Y BUSCADOR	
 							======================================-->
 
-							<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 backcolor" id="btnCategorias">
+							<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 backColor" id="btnCategorias">
 								
 								<p> CATEGORIAS</p>
 								<span class="pull-right">
@@ -117,7 +117,7 @@
 								BUSCADOR	
 							======================================-->
 
-							<div class="input-group col-lg-8 col-md-8 col-sm-8 col-sx-12" id="buscador">
+							<div class="input-group col-lg-8 col-md-8 col-sm-8 col-sx-12 backColor" id="buscador">
 								
 
 								<input type="search" name="buscar" class="form-control" placeholder="Buscar...">
@@ -200,7 +200,7 @@
 					</ul>
 
 				</div>
-				
+
 				<div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">					
 				
 					<h4>

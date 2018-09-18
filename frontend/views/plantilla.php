@@ -22,7 +22,9 @@
 
 	<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet"> 
 	<link href="https://fonts.googleapis.com/css?family=Ubuntu+Condensed" rel="stylesheet"> 
-	
+	<link rel="stylesheet" type="text/css" href="views/css/plantilla.css">
+	<link rel="stylesheet" type="text/css" href="views/css/cabezote.css">
+
 	<script src="views//js/plugins/jquery.min.css" type="text/javascript" charset="utf-8" async defer></script>
 	<script src="views//js/plugins/bootstrap.min.css" type="text/javascript" charset="utf-8" async defer></script>
 
@@ -41,8 +43,7 @@
 	
 	
 	
-	<h1>Title</h1>
-
+<<script src="views/js/cabezote.js"></script>
 	
 </body>
 </html>
