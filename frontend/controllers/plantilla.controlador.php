@@ -1,18 +1,36 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: xose
- * Date: 31/08/18
- * Time: 15:34
- */
 
-class ControladorPlantilla{
 
+class ControladorPlantillaClase{
+
+	/* LLAMAMOS A LA PLANTILLA	 */
 
     public function plantilla(){
 
         include "views/plantilla.php";
     }
 
-    
+    /*  TRAEMOS LOS ESTILOS DINÁMICOS DE LA PLANTILLA */
+
+
+    public function ctrEstiloPlantilla(){
+
+
+    	$tabla = "plantilla";
+
+    	$respuesta = ModeloPlantilla::mdlEstiloPlantilla($tabla);
+
+    	return $respuesta;
+
+
+    }
+
+    public function proba(){
+
+
+        
+        return "Return dende o método PROBA.";
+
+
+    }
 }

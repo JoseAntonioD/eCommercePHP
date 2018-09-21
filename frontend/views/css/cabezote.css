@@ -1,51 +1,39 @@
-
-/* ----------------------------------
-		TOP
- -----------------------------------*/
+/*=============================================
+TOP
+=============================================*/
 
 #top ul{
-
-	padding-top: 8px;
-
+	padding-top:8px;
 }
 
 #top ul li{
-
-	display: inline;
-	line-height: 30px;
-	margin: 0px 5px;
-	color: white;
-
+	display:inline;
+	line-height:30px;
+	margin:0px 5px;
+	color:white;
 }
 
 .social ul li a i{
-
-	font-size: 18px;
-	margin:0 1px ;
+	font-size:18px;
+	margin:0 1px;
 }
 
-#registro uk{
-
+.registro ul{
 	text-align: right;
-	font-size: 12px;
+	font-size:12px;
 }
 
-
-/*---------------------------------------
-	HEADER
----------------------------------------*/
-
+/*=============================================
+HEADER
+=============================================*/
 
 header #btnCategorias{
-
-	margin: 20px 0;
+	margin:20px 0;
 }
 
 header #btnCategorias p{
-
-	line-height: 40px;
-	margin-bottom: 0px;
-
+	line-height:40px;
+	margin-bottom:0px;
 }
 
 header #btnCategorias p span{

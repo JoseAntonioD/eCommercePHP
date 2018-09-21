@@ -17,16 +17,17 @@
 	<title>Tienda Virtual</title>
 
 
-	<link rel="stylesheet" href="views/css/plugins/bootstrap.min.css">
-	<link rel="stylesheet" href="views/css/plugins/font-awesome.min.css">
+	<link rel="stylesheet" href="views/css/plugins/bootstrap.min.css"> 
+	<!--<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous"> -->
+	<link rel="stylesheet" type="text/css" href="views/css/plugins/font-awesome.min.css">
 
 	<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet"> 
 	<link href="https://fonts.googleapis.com/css?family=Ubuntu+Condensed" rel="stylesheet"> 
 	<link rel="stylesheet" type="text/css" href="views/css/plantilla.css">
 	<link rel="stylesheet" type="text/css" href="views/css/cabezote.css">
 
-	<script src="views//js/plugins/jquery.min.css" type="text/javascript" charset="utf-8" async defer></script>
-	<script src="views//js/plugins/bootstrap.min.css" type="text/javascript" charset="utf-8" async defer></script>
+	<script src="views/js/plugins/jquery.min.js" type="text/javascript" charset="utf-8" async defer></script>
+	<script src="views/js/plugins/bootstrap.min.js" type="text/javascript" charset="utf-8" async defer></script>
 
 </head>
 <body>
@@ -43,7 +44,7 @@
 	
 	
 	
-<<script src="views/js/cabezote.js"></script>
+<script src="views/js/cabezote.js"></script>
 	
 </body>
 </html>

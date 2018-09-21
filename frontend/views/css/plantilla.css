@@ -1,61 +1,49 @@
-
-/* ----------------------------------------
-	GLOBAL
--------------------------------------------*/
+/*=============================================
+GLOBAL
+=============================================*/
 
 *{
-
-	margin: 0px;
-	padding: 0px;
+	margin:0px;
+	padding:0px;
 	list-style: none;
 	text-decoration: none;
 	font-family: 'Ubunt', sans-serif;
-
-	
 }
 
-ul, ol {
-
-	padding: 0px;
+ul, ol{
+	padding:0px;
 }
 
-a:visited, a:link, a:focus, a:hover, a:active {
-
+a:visited, a:link, a:focus, a:hover, a:active{
 	list-style: none;
 	text-decoration: none;
-
 }
 
 .barraSuperior{
-
-	background: black;
+	background:black;
 }
 
 .barraSuperior a{
-
-	color: white;
+	color:white;
 }
 
 .backColor, .backColor a{
-
-	background: #47bac1;
-	color: white;
+	background:#47bac1;
+	color:white;
 }
 
-
-/* ----------------------------------------
-	REDES SOCIALES
--------------------------------------------*/
+/*=============================================
+REDES SOCIALES
+=============================================*/
 
 .redSocial{
-
-	width: 30px;
-	height: 30px;
+	width:30px;
+	height:30px;
 	text-align: center;
-	line-height: 30px;
+	line-height:30px;
 }
 
-/* 	FACEBOOK*/
+/*FACEBOOK*/
 
 .facebookBlanco{
 	color:white;
@@ -131,23 +119,14 @@ a:visited, a:link, a:focus, a:hover, a:active {
 	color:black;
 }
 
+/*=============================================
+ERROR 404
+=============================================*/
 
-
-/*=====================================================
-ESCRITORIO GRANDE (LG revisamos en 1366px en adelante)
-=======================================================*/
-
-@media (min-width: 1200px) {
-	
-	.col-lg-0{
-		display: none;
-	}
-
-	header #carrito{
-		padding-left: 100px;
-	}
-
+.error404{
+	color:#333;
 }
+
 
 /*=============================================
 ESCRITORIO GRANDE (LG revisamos en 1366px en adelante)
